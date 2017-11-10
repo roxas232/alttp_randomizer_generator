@@ -1,15 +1,19 @@
 /*
-	Hello World example made by Aurelio Mannara for ctrulib
-	This code was modified for the last time on: 12/13/2014 01:00 UTC+1
+ALttP Randomizer Generator
+Copyright (C) 2017 Michael Ragusa
 
-	This wouldn't be possible without the amazing work done by:
-	-Smealum
-	-fincs
-	-WinterMute
-	-yellows8
-	-plutoo
-	-mtheall
-	-Many others who worked on 3DS and I'm surely forgetting about
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include <stdlib.h>
